@@ -11,7 +11,7 @@
   },
   {
     "__type__": "cc.Scene",
-    "_name": "prefab",
+    "_name": "2dgame",
     "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": null,
@@ -648,7 +648,7 @@
     "_enabled": true,
     "__prefab": null,
     "jumpHeight": 200,
-    "jumpDuration": 3.5,
+    "jumpDuration": 0.3,
     "_id": "9f0GcMlcZOIoR+dP4ErIG3"
   },
   {

@@ -250,12 +250,12 @@
     "_offset": {
       "__type__": "cc.Vec2",
       "x": -26,
-      "y": -160
+      "y": -163.4
     },
     "_size": {
       "__type__": "cc.Size",
       "width": 52,
-      "height": 320
+      "height": 313.2
     },
     "_id": ""
   },
@@ -460,12 +460,12 @@
     "_offset": {
       "__type__": "cc.Vec2",
       "x": 26.7,
-      "y": 168.6
+      "y": 173
     },
     "_size": {
       "__type__": "cc.Size",
       "width": 50.4,
-      "height": 348.5
+      "height": 339.7
     },
     "_id": ""
   },
