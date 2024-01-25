@@ -12,7 +12,7 @@ export class PipeePoolll extends Component {
   @property({
     type: Node,
   })
-  public PipePoolHome
+  public PipePoolHome: Node
 
   public pool = new NodePool()
   public createPipe: Node = null
@@ -41,7 +41,7 @@ export class PipeePoolll extends Component {
   }
 
   resetPool() {
-    this.PipePoolHome.removeALLChildren
+    this.PipePoolHome.removeAllChildren()
     this.pool.clear()
 
     this.initPool()

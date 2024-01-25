@@ -20,7 +20,7 @@ export class Bird extends Component {
   @property({
     type: CCFloat,
   })
-  public jumpDuration: number = 3.5
+  public jumpDuration: number = 0.3
 
   public birdAnimation: Animation
 
